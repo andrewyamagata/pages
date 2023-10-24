@@ -22,12 +22,12 @@ body {
   animation: backgroundTransition 8s ease-in-out infinite;
 }
 
-h1 {
+.header-wrapper-h1 {
   text-transform: uppercase;
   letter-spacing: 4px;
 }
 
-h2 {
+.header-wrapper-h2 {
   text-transform: uppercase;
   letter-spacing: 4px;
 }
