@@ -217,7 +217,7 @@ a:hover {
   height: 300px;
   width: 400px;
   margin: 3rem 0 0;
-  background-image: url(./sol.png);
+  /* background-image: url(images/img_projetos/power\ bi.png); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -225,7 +225,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   filter: grayscale(0.5);
-  color: #ffffff;
+  color: #050404;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -285,6 +285,23 @@ a:hover {
   font-size: 14px;
   opacity: 1;
   visibility: visible;
+}
+
+.card {
+  height: 300px;
+  width: 400px;
+  margin: 3rem 0 0;
+  background-image: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  filter: grayscale(0.5);
+  color: #050404;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 /* FOOTER */
